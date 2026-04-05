@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
