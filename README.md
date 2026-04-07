@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +148,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 <!---LeetCode Topics End-->
