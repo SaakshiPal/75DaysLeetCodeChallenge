@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0739-daily-temperatures/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/0874-walking-robot-simulation/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SaakshiPal/75DaysLeetCodeChallenge/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
